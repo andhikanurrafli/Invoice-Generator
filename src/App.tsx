@@ -162,7 +162,7 @@ export default function App() {
       <header className="sticky top-0 z-30 border-b border-slate-200 bg-white/95 backdrop-blur-sm">
         <div className="mx-auto flex max-w-[1440px] items-center justify-between gap-4 px-4 py-3 sm:px-6">
           <div className="text-lg font-bold tracking-tight text-[#1E3A5F] whitespace-nowrap shrink-0">
-            Generator Invoice
+            Fakturisasi
           </div>
 
           <div className="flex items-center gap-2.5 shrink-0">
