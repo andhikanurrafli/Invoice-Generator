@@ -1,0 +1,6 @@
+{
+  "name": "Generator Invoice",
+  "description": "Aplikasi web generator invoice berbahasa Indonesia dengan live preview A4 dan unduh PDF instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
